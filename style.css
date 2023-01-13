@@ -32,5 +32,6 @@ body{
 .img1{
     height: 100px;
     width: 200px;
-    
+    visibility: visible;
+    margin-left: 30%;
 }
