@@ -1,0 +1,36 @@
+body{
+    background-color:lightskyblue;
+}
+.d1{
+    height: 200px;
+    width: 400px;
+    background-color:lightskyblue;
+    margin-top: 200px;
+    margin-left: 500px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.5rem;
+    position: absolute;
+    
+}
+.navigation{
+    margin-top: 60px;
+    background-color:lightskyblue;
+    text-align: right;
+    width: 40%;
+    margin-left: 50%;
+
+}
+.anchor{
+    color: aliceblue;
+}
+.d2{
+    height: 100px;
+    width: 200px;
+    position: absolute;
+}
+.img1{
+    height: 100px;
+    width: 200px;
+    
+}
