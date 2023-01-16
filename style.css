@@ -22,16 +22,47 @@ body{
 
 }
 .anchor{
-    color: aliceblue;
+    color:black;
+    padding: 10px;
+    text-decoration: none;
+    font-size: medium;
 }
 .d2{
     height: 100px;
     width: 200px;
     position: absolute;
+    margin-top: 20%;
+    margin-left: 10%;
 }
 .img1{
     height: 100px;
     width: 200px;
-    visibility: visible;
-    margin-left: 30%;
+   
+}
+.img2
+{
+    height: 400px;
+    width: 1200px;
+}
+.head1{
+    font-family: sacramento, cursive;
+    font-weight: bold;
+    font-size: 3rem;
+    color: rgb(10, 192, 131);
+
+}
+.d3{
+    margin-top: 3%;
+    position: absolute;
+    margin-left: 70%;
+}
+.d4
+{
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 1%
+}
+.d{
+    margin-top: 20px;
+    float: right;
 }
